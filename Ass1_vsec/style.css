@@ -1,0 +1,27 @@
+body {
+    font-family: Arial;
+    background-color:antiquewhite;
+}
+
+form {
+    width: 400px;
+    margin: auto;
+    padding: 25px;
+    background-color: white;
+}
+
+h2 {
+    text-align: center;
+}
+
+input, select {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+}
+
+input[type="submit"] {
+    background-color: blue;
+    color: white;
+    margin-top: 10px;
+}
